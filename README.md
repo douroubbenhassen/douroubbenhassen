@@ -1,8 +1,8 @@
-<img align="right" height="187" src="https://imgur.com/ZyuBrcI.gif"  />
+<h2 align="center">Greetings, traveler! Welcome to Douroub Ben Hassen's galaxy! 🚀✨</h2>
 
 ###
 
-<h2 align="center">Greetings, traveler! Welcome to Douroub Ben Hassen's galaxy! 🚀✨</h2>
+<img align="right" height="187" src="https://imgur.com/ZyuBrcI.gif"  />
 
 ###
 
@@ -12,11 +12,10 @@
 
 <h5 align="center">📄 Check out my <a href="https://drive.google.com/file/d/1KxPS8iTlscS8EMWRM7F2tuZXRxT2TxQi/view?usp=sharing" target="_blank">Resume!</a></h5>
 
-
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />!
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
   <img width="12" />
