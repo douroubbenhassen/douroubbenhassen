@@ -2,7 +2,10 @@
 
 ###
 
-<h2 align="center">Greetings, traveler! Welcome to Douroub Ben Hassen's galaxy! 🚀✨</h2>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=5050&pause=1000&color=23895D&center=true&vCenter=true&multiline=true&width=435&lines=Greetings%2C+traveler!+Welcome+to+Douroub+Ben+Hassen's+galaxy!+%F0%9F%9A%80%E2%9C%A8&width=700" alt="Typing SVG" /></a>
+
+</p>  
 
 ###
 
@@ -13,6 +16,9 @@
 <h4 align="center">📄 Check out my <a href="https://drive.google.com/file/d/1KxPS8iTlscS8EMWRM7F2tuZXRxT2TxQi/view?usp=sharing" target="_blank">Resume!</h4>
 
 ###
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=5050&pause=1000&color=23895D&center=true&vCenter=true&multiline=true&width=435&lines=Skills" alt="Typing SVG" /></a>
+</p>  
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -74,6 +80,10 @@
 
 <br clear="both">
 
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=5050&pause=1000&color=23895D&center=true&vCenter=true&multiline=true&width=435&lines=Contact+me" alt="Typing SVG" /></a>
+</p>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/douroub-ben-hassen-452220275/?originalSubdomain=tn" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -87,6 +97,9 @@
 </div>
 
 ###
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=5050&pause=1000&color=23895D&center=true&vCenter=true&multiline=true&width=435&lines=Contributions" alt="Typing SVG" /></a>
+</p>
 
 <img src="https://raw.githubusercontent.com/douroubbenhassen/douroubbenhassen/output/snake.svg" alt="Snake animation" />
 
@@ -101,6 +114,10 @@
 ###
 
 <br clear="both">
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=5050&pause=1000&color=23895D&center=true&vCenter=true&multiline=true&width=435&lines=Visitors" alt="Typing SVG" /></a>
+</p>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/douroubbenhassen/count.svg?"  />
