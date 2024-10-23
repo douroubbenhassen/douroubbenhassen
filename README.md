@@ -6,10 +6,6 @@
 
 ###
 
-<img align="right" height="200" src="https://camo.githubusercontent.com/99fea79410d893220af60c47a9c6dd7ebc029e260d7a6dcb50c9a56d58b6cbdd/68747470733a2f2f696d6775722e636f6d2f5a7975427263492e676966"  />
-
-###
-
 <h4 align="center">What better way to spend your youth than digging for data? It’s like an archaeological dig, but with fewer dinosaurs and more missing values! 💜🦖🔭📊</h4>
 
 ###
