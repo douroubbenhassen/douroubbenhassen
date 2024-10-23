@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="center">Applied Mathematics and Modeling Engineer 📐✨ | Data Scientist 📊🔍</h4>
+<h4 align="center">What better way to spend your youth than digging for data? It’s like an archaeological dig, but with fewer dinosaurs and more missing values! 💜🦖🔭📊</h4>
 
 ###
 
